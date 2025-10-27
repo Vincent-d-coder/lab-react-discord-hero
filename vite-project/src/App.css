@@ -40,7 +40,7 @@ body{
   flex-direction: column;
 }
 .btn-white{
-  margin-right: 110vh;
+  margin-right: 110vh; 
   padding: 15px;
   background-color: white;
   color: black;
